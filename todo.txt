@@ -1,0 +1,3 @@
+
+
+Create a code to only pass the subheadings in to openAI, determine the most likely to help, and pass that in as context
